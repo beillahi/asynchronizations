@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "ConflictGraphAnalyzer": {
+      "commandName": "Project"
+    }
+  }
+}

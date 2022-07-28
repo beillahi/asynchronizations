@@ -1,0 +1,27 @@
+# - - -
+# C#
+# - - -
+
+# VS Compiler-generated intermediates
+bin/
+obj/
+.vs/
+packages/
+
+
+# Temporaries
+
+
+
+# - - -
+# Editor/IDE
+# - - -
+.vscode
+
+
+
+# - - -
+# External
+# - - -
+_*
+*.tgz
